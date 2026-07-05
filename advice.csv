@@ -1,0 +1,441 @@
+disease,advice_type,advice
+Viral Fever,Hydration,Drink plenty of water and oral rehydration solutions throughout the day
+Viral Fever,Rest,Take adequate rest and avoid strenuous physical activities
+Viral Fever,Diet,Eat light easily digestible and nutritious food like soups and porridge
+Viral Fever,Precaution,Monitor body temperature regularly and consult a doctor if it exceeds 103F
+Viral Fever,Lifestyle,Avoid close contact with others to prevent spreading the infection
+Common Cold,Hydration,Drink warm fluids like herbal tea and warm water to soothe your throat
+Common Cold,Rest,Ensure 7 to 8 hours of sleep to help your immune system recover
+Common Cold,Diet,Include foods rich in Vitamin C and zinc like citrus fruits and nuts
+Common Cold,Precaution,Wash your hands frequently and cover your mouth when sneezing
+Common Cold,Lifestyle,Use a humidifier or inhale steam to relieve nasal congestion
+Influenza,Hydration,Sip on water clear broths or electrolyte solutions regularly
+Influenza,Rest,Stay at home and rest completely until your fever subsides for 24 hours
+Influenza,Diet,Eat small frequent meals containing lean proteins and cooked vegetables
+Influenza,Precaution,Watch out for severe symptoms like shortness of breath or chest pain
+Influenza,Lifestyle,Isolate yourself from family members to prevent household transmission
+COVID-19,Hydration,Stay well hydrated by drinking fluids at regular intervals
+COVID-19,Rest,Get plenty of rest and avoid any physical exertion during recovery
+COVID-19,Diet,Consume a balanced diet rich in vitamins and minerals to support immunity
+COVID-19,Precaution,Wear a mask and monitor your oxygen saturation levels with a pulse oximeter
+COVID-19,Lifestyle,Isolate in a well ventilated room and follow national quarantine guidelines
+Dengue,Hydration,Drink ample fluids like coconut water and ORS to maintain platelet counts
+Dengue,Rest,Strict bed rest is essential to prevent complications and exhaustion
+Dengue,Diet,Eat soft foods and avoid dark colored foods that could mask internal bleeding
+Dengue,Precaution,Avoid taking aspirin or ibuprofen as they can worsen bleeding risks
+Dengue,Lifestyle,Use mosquito nets and repellents to prevent further mosquito bites
+Malaria,Hydration,Consume plenty of clean water and fluids to counteract high fever dehydration
+Malaria,Rest,Get complete bed rest until the course of medication is completed
+Malaria,Diet,Eat high calorie foods to regain energy but keep them low in fat
+Malaria,Precaution,Complete the full course of prescribed antimalarial medication without fail
+Malaria,Lifestyle,Eliminate standing water around your living space to prevent mosquito breeding
+Typhoid,Hydration,Drink boiled or purified water to prevent further contamination
+Typhoid,Rest,Restrict physical movement and take complete rest until completely cured
+Typhoid,Diet,Eat a bland bland diet like white rice bananas and boiled potatoes
+Typhoid,Precaution,Maintain strict personal hygiene and wash hands thoroughly before meals
+Typhoid,Lifestyle,Avoid eating food from street vendors or unhygienic places
+Migraine,Lifestyle,Identify and avoid personal triggers such as bright lights and loud noises
+Migraine,Rest,Rest or sleep in a quiet dark and cool room during an attack
+Migraine,Hydration,Maintain a consistent hydration schedule to prevent trigger headaches
+Migraine,Diet,Avoid aged cheeses processed meats and artificial sweeteners
+Migraine,Precaution,Keep a headache diary to track the frequency and causes of your attacks
+Sinusitis,Hydration,Drink plenty of water to help thin the mucus in your nasal passages
+Sinusitis,Rest,Allow your body to rest to help fight off the sinus infection
+Sinusitis,Diet,Incorporate spicy foods like horseradish or chili if tolerated to clear sinuses
+Sinusitis,Precaution,Avoid sudden temperature changes and exposure to cigarette smoke
+Sinusitis,Lifestyle,Apply a warm compress over your nose and forehead to relieve sinus pressure
+Asthma,Exercise,Perform light exercises like walking but use a rescue inhaler beforehand if needed
+Asthma,Diet,Eat fresh fruits and vegetables containing antioxidants to reduce inflammation
+Asthma,Precaution,Always carry your prescribed quick relief inhaler wherever you go
+Asthma,Lifestyle,Keep your home free from dust mites pet dander and tobacco smoke
+Asthma,Rest,Elevate your head with extra pillows if you experience nighttime coughing
+Bronchitis,Hydration,Drink warm water and teas to loosen mucus in your chest
+Bronchitis,Rest,Avoid heavy lifting and get sufficient sleep to aid lung recovery
+Bronchitis,Diet,Eat warm nutrient dense broths and avoid mucus producing dairy if sensitive
+Bronchitis,Precaution,Avoid exposure to cold air dust and chemical fumes that irritate airways
+Bronchitis,Lifestyle,Quit smoking entirely and avoid secondhand smoke exposures
+Pneumonia,Hydration,Drink adequate fluids to loosen lung secretions and prevent dehydration
+Pneumonia,Rest,Stay in bed and strictly limit physical activities until cleared by a doctor
+Pneumonia,Diet,Eat small high protein meals to rebuild strength and energy
+Pneumonia,Precaution,Take all prescribed antibiotics exactly as directed even if you feel better
+Pneumonia,Lifestyle,Practice deep breathing exercises regularly as recommended by your physician
+Tuberculosis,Diet,Consume a high protein high calorie diet to combat weight loss
+Tuberculosis,Rest,Get adequate rest and sleep to help your body heal from the infection
+Tuberculosis,Precaution,Adhere strictly to the lengthy medication regime without missing any doses
+Tuberculosis,Lifestyle,Cover your mouth when coughing and ensure proper room ventilation
+Tuberculosis,Hydration,Drink plenty of clean water to stay hydrated during treatment
+Hypertension,Diet,Follow the DASH diet reduced in sodium and rich in whole grains
+Hypertension,Exercise,Engage in 30 minutes of moderate aerobic exercise like brisk walking daily
+Hypertension,Precaution,Check your blood pressure regularly and log the readings for your doctor
+Hypertension,Lifestyle,Manage stress levels through meditation yoga or deep breathing techniques
+Hypertension,Rest,Ensure you get 7 to 8 hours of uninterrupted quality sleep each night
+Hypotension,Hydration,Increase your fluid and electrolyte intake to help raise blood pressure
+Hypotension,Diet,Include slightly more salt in your diet after consulting with your doctor
+Hypotension,Precaution,Avoid standing up too quickly from a sitting or lying position
+Hypotension,Lifestyle,Wear compression stockings if recommended to improve blood circulation
+Hypotension,Rest,Avoid prolonged bed rest which can worsen orthostatic hypotension
+Diabetes Type 1,Diet,Count your carbohydrates carefully and match them with your insulin dose
+Diabetes Type 1,Exercise,Monitor your blood sugar before during and after physical activities
+Diabetes Type 1,Precaution,Always carry fast acting glucose tablets or candy for emergency hypoglycemia
+Diabetes Type 1,Lifestyle,Inspect your feet daily for any cuts sores or blisters
+Diabetes Type 1,Hydration,Drink plenty of water especially when blood sugar levels are running high
+Diabetes Type 2,Diet,Focus on high fiber foods lean proteins and complex carbohydrates
+Diabetes Type 2,Exercise,Aim for at least 150 minutes of moderate intensity exercise per week
+Diabetes Type 2,Precaution,Take oral medications or insulin exactly at the scheduled times
+Diabetes Type 2,Lifestyle,Maintain a healthy weight to improve insulin sensitivity
+Diabetes Type 2,Hydration,Choose water over sugary drinks or soda to stay properly hydrated
+Acidity,Diet,Avoid spicy fatty and highly acidic foods like citrus and tomatoes
+Acidity,Lifestyle,Do not lie down immediately after eating wait at least 2 to 3 hours
+Acidity,Precaution,Eat smaller meals more frequently instead of large heavy meals
+Acidity,Hydration,Drink water moderately throughout the day but avoid drinking too much during meals
+Acidity,Rest,Elevate the head of your bed by six inches to prevent nighttime reflux
+Gastritis,Diet,Eat a bland diet consisting of oatmeal bananas and boiled rice
+Gastritis,Precaution,Avoid NSAID pain relievers like ibuprofen which can irritate stomach lining
+Gastritis,Lifestyle,Quit smoking and limit alcohol consumption as they inflame the stomach
+Gastritis,Hydration,Sip on coconut water or non acidic fluids to stay hydrated
+Gastritis,Rest,Manage emotional stress as it can trigger or worsen gastritis symptoms
+Peptic Ulcer,Diet,Avoid caffeine chocolate spicy foods and highly seasoned items
+Peptic Ulcer,Precaution,Take prescribed acid suppressants or antibiotics exactly as directed
+Peptic Ulcer,Lifestyle,Avoid smoking since it delays the healing of stomach ulcers
+Peptic Ulcer,Hydration,Drink adequate water but avoid drinking milk as it can worsen acid production later
+Peptic Ulcer,Rest,Ensure proper rest and avoid high stress environments that exacerbate ulcers
+Food Poisoning,Hydration,Sip oral rehydration solutions or clear broths to replace lost fluids
+Food Poisoning,Rest,Rest your gut by avoiding solid foods for the first few hours
+Food Poisoning,Diet,Gradually introduce bland foods like crackers toast and bananas
+Food Poisoning,Precaution,Do not take anti diarrhea medications unless specifically prescribed by a doctor
+Food Poisoning,Lifestyle,Always wash hands thoroughly and ensure food is cooked to safe temperatures
+Gastroenteritis,Hydration,Drink small frequent sips of water electrolyte drinks or diluted juices
+Gastroenteritis,Rest,Stay home and rest to allow your digestive tract to recover
+Gastroenteritis,Diet,Follow the BRAT diet bananas rice applesauce toast when ready to eat
+Gastroenteritis,Precaution,Watch for signs of severe dehydration like dry mouth or dizziness
+Gastroenteritis,Lifestyle,Sanitize shared household surfaces to prevent infecting others
+Irritable Bowel Syndrome,Diet,Identify food intolerances and consider a low FODMAP diet
+Irritable Bowel Syndrome,Lifestyle,Maintain a consistent routine for meals and bowel movements
+Irritable Bowel Syndrome,Exercise,Engage in regular low impact exercises like yoga to stimulate digestion
+Irritable Bowel Syndrome,Precaution,Manage anxiety and stress as they directly impact bowel symptoms
+Irritable Bowel Syndrome,Hydration,Drink plenty of water but limit carbonated and caffeinated beverages
+Constipation,Diet,Increase your dietary fiber by eating more whole grains fruits and vegetables
+Constipation,Hydration,Drink 8 to 10 glasses of water daily to soften stools
+Constipation,Exercise,Walk or jog daily to stimulate intestinal muscle contractions
+Constipation,Precaution,Do not ignore the urge to have a bowel movement
+Constipation,Lifestyle,Avoid routine use of stimulant laxatives without medical advice
+Diarrhea,Hydration,Replenish lost fluids and minerals with ORS and sports drinks
+Diarrhea,Diet,Eat small portions of low fiber foods like white rice and plain crackers
+Diarrhea,Precaution,Seek medical help if stool contains blood or if diarrhea lasts over two days
+Diarrhea,Rest,Limit physical activities and rest to save energy
+Diarrhea,Lifestyle,Practice good hygiene and wash hands after using the restroom
+Arthritis,Exercise,Perform low impact exercises like swimming or cycling to keep joints flexible
+Arthritis,Diet,Incorporate anti inflammatory foods rich in omega 3 fatty acids like salmon
+Arthritis,Precaution,Avoid lifting heavy weights that place excessive stress on painful joints
+Arthritis,Lifestyle,Apply warm compresses to soothe stiff joints and ice packs for swelling
+Arthritis,Rest,Balance periods of activity with adequate rest to protect your joints
+Osteoarthritis,Exercise,Engage in strength training to build muscles around affected joints
+Osteoarthritis,Diet,Maintain an ideal body weight to reduce structural pressure on your knees and hips
+Osteoarthritis,Lifestyle,Use assistive devices like braces or shoe inserts if recommended
+Osteoarthritis,Precaution,Avoid high impact repetitive activities like running on hard surfaces
+Osteoarthritis,Rest,Take brief rest breaks during the day to minimize joint fatigue
+Rheumatoid Arthritis,Diet,Eat a Mediterranean diet rich in olive oil vegetables and fish
+Rheumatoid Arthritis,Rest,Get plenty of rest during a flare up to manage systemic inflammation
+Rheumatoid Arthritis,Exercise,Practice gentle stretching or tai chi to preserve joint mobility
+Rheumatoid Arthritis,Precaution,Take your disease modifying antirheumatic drugs regular as prescribed
+Rheumatoid Arthritis,Lifestyle,Use joint protection techniques like sliding objects instead of lifting them
+Back Pain,Exercise,Strengthen your core muscles through gentle exercises and stretching
+Back Pain,Lifestyle,Maintain good posture while sitting standing and working at a desk
+Back Pain,Rest,Avoid prolonged bed rest as it can worsen back stiffness
+Back Pain,Precaution,Use proper lifting techniques by bending your knees and keeping objects close
+Back Pain,Hydration,Stay hydrated to keep the spinal discs healthy and plump
+Kidney Stone,Hydration,Drink at least 2 to 3 liters of water daily to flush out stones
+Kidney Stone,Diet,Reduce dietary sodium and limit oxalates found in spinach and chocolate
+Kidney Stone,Precaution,Strain your urine to catch stones for analysis if requested by your doctor
+Kidney Stone,Lifestyle,Maintain a healthy weight and stay physically active to prevent stone formation
+Kidney Stone,Rest,Rest during episodes of acute renal colic pain and take prescribed analgesics
+Urinary Tract Infection,Hydration,Drink large amounts of water to help flush bacteria out of the urinary tract
+Urinary Tract Infection,Precaution,Complete the full course of antibiotics even if the symptoms disappear early
+Urinary Tract Infection,Lifestyle,Always wipe from front to back after using the toilet
+Urinary Tract Infection,Diet,Avoid bladder irritants like caffeine alcohol and spicy foods
+Urinary Tract Infection,Rest,Rest as needed to support your body while fighting off the infection
+Fatty Liver,Diet,Reduce intake of refined sugars saturated fats and high fructose corn syrup
+Fatty Liver,Exercise,Aim for 30 to 45 minutes of moderate aerobic exercise most days of the week
+Fatty Liver,Lifestyle,Abstain completely from alcohol to prevent further liver damage
+Fatty Liver,Precaution,Lose weight gradually as rapid weight loss can worsen liver fat
+Fatty Liver,Hydration,Drink water instead of sweetened juices or energy drinks
+Hepatitis A,Rest,Get plenty of bed rest as the body fights off the viral infection
+Hepatitis A,Diet,Eat small frequent meals that are low in fat to manage nausea
+Hepatitis A,Precaution,Avoid alcohol and any medications that stress the liver like acetaminophen
+Hepatitis A,Hydration,Drink plenty of clean fluids to stay hydrated during bouts of vomiting
+Hepatitis A,Lifestyle,Practice strict hand hygiene to prevent spreading the virus to others
+Hepatitis B,Rest,Avoid extreme fatigue and balance your daily routine with plenty of rest
+Hepatitis B,Diet,Eat a balanced highly nutritious diet to support liver regeneration
+Hepatitis B,Precaution,Do not share needles razors or toothbrushes with anyone else
+Hepatitis B,Lifestyle,Schedule regular follow up appointments with a hepatologist for monitoring
+Hepatitis B,Hydration,Maintain optimal hydration levels by drinking water regularly
+Hepatitis C,Diet,Focus on vegetables fruits whole grains and lean protein sources
+Hepatitis C,Precaution,Inform healthcare providers of your condition and avoid liver toxic supplements
+Hepatitis C,Lifestyle,Avoid alcohol entirely to prevent accelerated progression to cirrhosis
+Hepatitis C,Rest,Ensure proper sleep patterns to combat chronic fatigue symptoms
+Hepatitis C,Hydration,Drink water consistently throughout the day to support overall metabolism
+Anemia,Diet,Increase consumption of iron rich foods like lean meats spinach and beans
+Anemia,Precaution,Take iron supplements with Vitamin C to enhance absorption but avoid taking them with calcium
+Anemia,Rest,Allow yourself extra rest if you feel dizzy or excessively tired
+Anemia,Exercise,Engage in light physical activity but stop immediately if short of breath
+Anemia,Hydration,Keep well hydrated to support blood volume and overall circulation
+Hypothyroidism,Diet,Ensure adequate iodine and selenium intake but avoid excessive soy consumption
+Hypothyroidism,Precaution,Take your thyroid hormone medication on an empty stomach first thing in the morning
+Hypothyroidism,Lifestyle,Manage weight through a combination of controlled calories and exercise
+Hypothyroidism,Rest,Prioritize regular sleep schedules to combat persistent lethargy
+Hypothyroidism,Exercise,Engage in regular aerobic exercises to boost your metabolic rate
+Hyperthyroidism,Diet,Avoid high iodine foods like seaweed iodized salt and seafood
+Hyperthyroidism,Rest,Get extra rest to help counteract a racing heart and high metabolism
+Hyperthyroidism,Precaution,Monitor your pulse rate and report any sudden palpitations to your physician
+Hyperthyroidism,Lifestyle,Reduce caffeine intake to minimize jitteriness and anxiety symptoms
+Hyperthyroidism,Exercise,Stick to low impact exercises to prevent overheating and muscle strain
+Obesity,Diet,Create a sustainable calorie deficit using portion control and whole foods
+Obesity,Exercise,Incorporate at least 150 to 300 minutes of moderate exercise weekly
+Obesity,Lifestyle,Track your food intake and physical activity to identify behavioral patterns
+Obesity,Precaution,Consult a dietitian or doctor before starting any extreme weight loss program
+Obesity,Rest,Aim for 7 to 8 hours of quality sleep nightly to regulate hunger hormones
+Malnutrition,Diet,Gradually increase nutrient dense calorie rich foods under supervision
+Malnutrition,Precaution,Monitor for refeeding syndrome when introducing nutrients after severe starvation
+Malnutrition,Rest,Conserve energy by limiting strenuous physical activities initially
+Malnutrition,Hydration,Rehydrate carefully with electrolyte balanced fluids if needed
+Malnutrition,Lifestyle,Work closely with healthcare professionals to resolve underlying causes
+Allergy,Lifestyle,Identify your specific allergens and minimize exposure to them entirely
+Allergy,Precaution,Keep antihistamines or an epinephrine auto injector handy if prone to anaphylaxis
+Allergy,Hydration,Drink water to help thin mucus if allergies cause nasal congestion
+Allergy,Diet,Avoid foods known to cross react with your environmental allergies
+Allergy,Rest,Allow your body to recover after severe allergic reactions
+Skin Allergy,Lifestyle,Use mild unscented soaps and avoid applying harsh cosmetics
+Skin Allergy,Precaution,Do not scratch the affected skin to prevent secondary bacterial infections
+Skin Allergy,Diet,Eliminate suspected food allergens from your diet one at a time
+Skin Allergy,Hydration,Keep skin hydrated by applying hypoallergenic moisturizers frequently
+Skin Allergy,Rest,Wear loose cotton clothing to prevent friction and sweating over rashes
+Eczema,Lifestyle,Moisturize your skin at least twice a day with thick creams or ointments
+Eczema,Precaution,Avoid taking hot showers use lukewarm water instead to prevent drying
+Eczema,Diet,Avoid foods that you notice cause eczema flare ups
+Eczema,Rest,Get enough sleep to reduce stress which is a known eczema trigger
+Eczema,Exercise,Shower immediately after exercising to remove irritating sweat from skin
+Psoriasis,Lifestyle,Expose skin to brief safe periods of natural sunlight if recommended
+Psoriasis,Precaution,Avoid skin injuries cuts or scrapes which can trigger new psoriasis plaques
+Psoriasis,Diet,Incorporate omega 3 fatty acids and anti inflammatory spices like turmeric
+Psoriasis,Hydration,Apply moisturizers immediately after bathing to lock in skin moisture
+Psoriasis,Rest,Practice relaxation techniques to reduce stress related psoriasis flares
+Acne,Lifestyle,Wash your face twice daily with a gentle non comedogenic cleanser
+Acne,Precaution,Do not squeeze pick or pop pimples as this leads to permanent scarring
+Acne,Diet,Limit intake of high glycemic foods and dairy products if they worsen acne
+Acne,Hydration,Drink plenty of water to assist the body in flushing out skin toxins
+Acne,Rest,Change your pillowcases frequently to prevent oil and bacteria build up
+Fungal Infection,Lifestyle,Keep the affected skin clean and dry especially in skin folds
+Fungal Infection,Precaution,Apply antifungal creams consistently for the full duration prescribed
+Fungal Infection,Diet,Reduce sugar intake as yeast and fungi thrive on high glucose levels
+Fungal Infection,Rest,Wear loose breathable cotton clothing to prevent moisture build up
+Fungal Infection,Hydration,Drink water to maintain skin health and support overall immunity
+Conjunctivitis,Lifestyle,Avoid touching or rubbing your eyes to prevent spreading infection
+Conjunctivitis,Precaution,Discontinue wearing contact lenses until the infection is completely cleared
+Conjunctivitis,Rest,Rest your eyes by limiting screen time on phones or computers
+Conjunctivitis,Diet,Maintain a diet rich in vitamins A and C to support eye health
+Conjunctivitis,Hydration,Use prescribed artificial tears or saline wipes to clean eye discharge
+Cataract,Lifestyle,Wear sunglasses with UV protection when outdoors to shield your eyes
+Cataract,Precaution,Ensure regular eye exams to track the progression of lens clouding
+Cataract,Diet,Eat foods high in antioxidants like leafy greens and berries
+Cataract,Rest,Ensure adequate lighting at home to prevent falls due to blurred vision
+Cataract,Exercise,Engage in safe physical activities that do not require perfect depth perception
+Glaucoma,Precaution,Apply prescribed pressure lowering eye drops precisely at the same time daily
+Glaucoma,Lifestyle,Avoid activities that require hanging upside down which increases eye pressure
+Glaucoma,Diet,Limit caffeine intake as large amounts can increase intraocular pressure
+Glaucoma,Exercise,Engage in regular moderate aerobic exercise which may help lower eye pressure
+Glaucoma,Rest,Keep regular ophthalmology appointments to monitor optic nerve health
+Ear Infection,Precaution,Keep the infected ear completely dry and avoid swimming during recovery
+Ear Infection,Rest,Rest with your head elevated to help drain fluids from the middle ear
+Ear Infection,Hydration,Sip fluids frequently as swallowing can help open the eustachian tubes
+Ear Infection,Diet,Avoid foods that increase mucus production if you also have a cold
+Ear Infection,Lifestyle,Do not insert cotton swabs or sharp objects into the ear canal
+Tonsillitis,Hydration,Gargle with warm salt water and drink warm soothing fluids frequently
+Tonsillitis,Rest,Limit talking and get plenty of vocal and physical rest
+Tonsillitis,Diet,Eat soft smooth foods like ice cream yogurt and cooled broths
+Tonsillitis,Precaution,Complete any prescribed antibiotic courses fully to prevent rheumatic fever
+Tonsillitis,Lifestyle,Avoid smoking and exposure to secondhand smoke or chemical irritants
+Pharyngitis,Hydration,Drink plenty of warm liquids like broth or honey lemon tea
+Pharyngitis,Rest,Get ample rest to allow your immune system to clear the throat infection
+Pharyngitis,Diet,Avoid spicy crunchy or highly acidic foods that scratch the throat
+Pharyngitis,Precaution,Use a throat lozenge or anesthetic spray to manage severe pain
+Pharyngitis,Lifestyle,Stay away from dusty environments and avoid shouting
+Depression,Lifestyle,Establish a structured daily routine and stay connected with loved ones
+Depression,Exercise,Engage in daily walks or physical activity to naturally boost endorphins
+Depression,Rest,Maintain consistent sleep hygiene by going to bed at the same time daily
+Depression,Precaution,Take antidepressant medications regularly and do not stop them abruptly
+Depression,Diet,Eat balanced meals rich in complex carbs and omega 3 fatty acids
+Anxiety Disorder,Lifestyle,Practice deep breathing exercises and mindfulness meditation daily
+Anxiety Disorder,Diet,Limit or eliminate caffeine and alcohol as they trigger panic and anxiety
+Anxiety Disorder,Rest,Ensure you get 8 hours of restful sleep to stabilize mood
+Anxiety Disorder,Exercise,Incorporate regular cardio exercises to burn off excess stress hormones
+Anxiety Disorder,Precaution,Reach out to a therapist or counselor for cognitive behavioral support
+Panic Disorder,Lifestyle,Learn to identify early signs of a panic attack and practice grounding techniques
+Panic Disorder,Precaution,Remind yourself during an attack that the sensations are not life threatening
+Panic Disorder,Rest,Practice progressive muscle relaxation after an episode to release tension
+Panic Disorder,Diet,Avoid high sugar foods that cause blood sugar spikes and crashes
+Panic Disorder,Exercise,Engage in gentle yoga or walking to promote a calm nervous system
+Insomnia,Lifestyle,Keep your bedroom dark quiet and cool and establish a pre sleep routine
+Insomnia,Precaution,Avoid screens and blue light for at least one hour before bedtime
+Insomnia,Diet,Do not eat heavy meals or consume alcohol close to sleeping hours
+Insomnia,Exercise,Exercise regularly during the day but avoid intense workouts late at night
+Insomnia,Rest,Avoid taking long daytime naps that disrupt your nighttime sleep drive
+Epilepsy,Precaution,Take anti seizure medications precisely as prescribed without missing doses
+Epilepsy,Lifestyle,Ensure your living space is safe and free of sharp edges in case of falls
+Epilepsy,Rest,Prioritize adequate sleep as sleep deprivation is a major seizure trigger
+Epilepsy,Diet,Discuss specialized diets like the ketogenic diet with your neurologist
+Epilepsy,Exercise,Engage in supervised swimming or low risk exercises avoid solo water sports
+Parkinson Disease,Exercise,Engage in regular physical therapy stretching and balance exercises
+Parkinson Disease,Lifestyle,Modify your home environment to eliminate trip hazards like loose rugs
+Parkinson Disease,Diet,Eat a high fiber diet and drink plenty of water to manage constipation
+Parkinson Disease,Precaution,Take levodopa medications at timed intervals separate from high protein meals
+Parkinson Disease,Rest,Allow ample time to complete daily tasks without rushing or stress
+Alzheimer Disease,Lifestyle,Maintain a consistent daily schedule and label household items clearly
+Alzheimer Disease,Exercise,Encage in simple daily walks to improve mood and physical strength
+Alzheimer Disease,Diet,Follow a heart healthy diet like the Mediterranean or MIND diet
+Alzheimer Disease,Precaution,Install safety locks and tracking devices to prevent wandering risks
+Alzheimer Disease,Rest,Create a calm evening routine to minimize symptoms of sundowning
+Stroke,Exercise,Participate diligently in prescribed physical and occupational rehabilitation programs
+Stroke,Diet,Adopt a low sodium low fat diet to manage blood pressure and cholesterol
+Stroke,Precaution,Take blood thinners or antiplatelet drugs exactly as directed by your doctor
+Stroke,Lifestyle,Monitor blood pressure regularly and quit smoking immediately
+Stroke,Rest,Allow frequent rest periods during therapy as post stroke fatigue is common
+Heart Disease,Diet,Eat a diet low in saturated fats trans fats and cholesterol
+Heart Disease,Exercise,Incorporate doctor approved moderate aerobic exercise into your week
+Heart Disease,Precaution,Know the warning signs of a heart attack and seek emergency care immediately
+Heart Disease,Lifestyle,Manage stress through relaxation techniques and maintain a healthy weight
+Heart Disease,Hydration,Drink water moderately avoiding excessive volumes if prone to fluid retention
+Coronary Artery Disease,Diet,Increase your intake of soluble fiber oats fruits and vegetables
+Coronary Artery Disease,Exercise,Engage in supervised cardiac rehabilitation exercises if advised
+Coronary Artery Disease,Precaution,Always keep your nitroglycerin medication accessible if prescribed
+Coronary Artery Disease,Lifestyle,Quit smoking completely and avoid exposure to tobacco smoke
+Coronary Artery Disease,Rest,Get adequate rest and avoid heavy sudden physical strains like shoveling
+Heart Failure,Hydration,Strictly adhere to your daily fluid restriction limits as advised by your doctor
+Heart Failure,Diet,Restrict dietary sodium intake severely to prevent fluid buildup
+Heart Failure,Precaution,Weigh yourself every morning and report a sudden gain of 2 to 3 pounds in a day
+Heart Failure,Rest,Elevate your feet when sitting to reduce swelling in your legs
+Heart Failure,Exercise,Perform gentle short walks as tolerated avoid heavy strenuous lifting
+Arrhythmia,Precaution,Avoid stimulants over the counter cold medications and excessive caffeine
+Arrhythmia,Lifestyle,Monitor your pulse and know how to check your heart rhythm manually
+Arrhythmia,Diet,Eat magnesium and potassium rich foods to support heart electrical health
+Arrhythmia,Rest,Get enough sleep as exhaustion can trigger irregular heartbeats
+Arrhythmia,Exercise,Stick to light doctor approved physical activities and stop if dizzy
+Angina,Rest,Stop all physical activity and rest immediately if chest pain occurs
+Angina,Precaution,Use prescribed nitroglycerin as directed if rest does not relieve chest pain
+Angina,Diet,Eat small light meals as heavy meals can precipitate an angina attack
+Angina,Lifestyle,Avoid sudden exposure to very cold weather which constricts arteries
+Angina,Exercise,Build up your exercise tolerance slowly under medical supervision
+COPD,Lifestyle,Quit smoking immediately and avoid all forms of airborne lung irritants
+COPD,Precaution,Use your maintenance and rescue inhalers exactly as instructed by your doctor
+COPD,Exercise,Practice pulmonary rehabilitation exercises and pursed lip breathing techniques
+COPD,Diet,Eat small frequent high nutrient meals if large meals make breathing difficult
+COPD,Hydration,Drink plenty of water to help thin mucus secretions in your lungs
+Sleep Apnea,Lifestyle,Sleep on your side instead of your back to keep your airway open
+Sleep Apnea,Precaution,Use your CPAP machine consistently every single night without exception
+Sleep Apnea,Diet,Maintain a healthy weight to reduce fat deposits around the neck area
+Sleep Apnea,Lifestyle,Avoid alcohol and sedatives before bed as they relax throat muscles
+Sleep Apnea,Rest,Maintain regular sleep hours to avoid extreme overtiredness
+Appendicitis,Precaution,Seek immediate emergency medical attention do not wait for symptoms to worsen
+Appendicitis,Diet,Do not eat or drink anything if appendicitis is suspected ahead of surgery
+Appendicitis,Lifestyle,Do not apply heat pads or take laxatives for abdominal pain as it may cause rupture
+Appendicitis,Rest,Lie down and remain still in a comfortable position until emergency help arrives
+Appendicitis,Hydration,Avoid drinking fluids as general anesthesia may be required urgently
+Gallstones,Diet,Follow a low fat low cholesterol diet to prevent gallbladder contractions
+Gallstones,Precaution,Seek immediate care if you develop severe right upper abdominal pain with fever
+Gallstones,Lifestyle,Avoid rapid weight loss methods which can paradoxically increase stone formation
+Gallstones,Hydration,Drink plenty of water to assist in overall digestive health
+Gallstones,Rest,Rest comfortably during mild episodes of biliary colic pain
+Pancreatitis,Diet,Maintain a strict fasting state initially then transition to a very low fat diet
+Pancreatitis,Precaution,Abstain from alcohol completely as it is a major trigger for pancreatitis
+Pancreatitis,Hydration,Receive intravenous fluids or sip water strictly as allowed by your physician
+Pancreatitis,Rest,Rest completely in a hospital setting or home environment during recovery
+Pancreatitis,Lifestyle,Quit smoking since it increases the risk of chronic pancreatitis complications
+PCOS,Diet,Follow a low glycemic index diet to help manage insulin resistance
+PCOS,Exercise,Engage in regular strength training and aerobic exercise to manage weight
+PCOS,Lifestyle,Establish consistent sleep patterns to help regulate reproductive hormones
+PCOS,Precaution,Monitor your menstrual cycle regularity and track metabolic health markers
+PCOS,Hydration,Drink water consistently and cut out sugary beverage alternatives
+Menstrual Disorder,Diet,Eat iron rich foods during heavy bleeding to prevent anemia development
+Menstrual Disorder,Exercise,Practice light yoga or walking to help relieve painful cramps
+Menstrual Disorder,Precaution,Track your cycle length flow intensity and pain levels in a calendar
+Menstrual Disorder,Rest,Ensure extra rest and use heating pads to comfort abdominal cramps
+Menstrual Disorder,Hydration,Drink warm water or herbal teas to reduce bloating and discomfort
+Osteoporosis,Diet,Consume plenty of calcium rich foods and maintain optimal Vitamin D levels
+Osteoporosis,Exercise,Engage in weight bearing exercises like walking and resistance training
+Osteoporosis,Precaution,Modify your home to prevent falls by fixing loose carpets and lighting paths
+Osteoporosis,Lifestyle,Avoid excessive alcohol consumption and quit smoking to preserve bone density
+Osteoporosis,Rest,Maintain good posture when resting sitting or lifting items to protect your spine
+Gout,Hydration,Drink lots of water to help flush uric acid out through your kidneys
+Gout,Diet,Avoid high purine foods like red meat seafood beer and high fructose corn syrup
+Gout,Precaution,Take prescribed uric acid lowering medications regularly and avoid aspirin
+Gout,Rest,Rest and elevate the affected joint during an acute gout flare up
+Gout,Lifestyle,Apply cold packs to the inflamed joint to numb the pain and reduce swelling
+Lupus,Lifestyle,Apply high SPF sunscreen and wear protective clothing to avoid UV light triggers
+Lupus,Rest,Incorporate regular rest breaks throughout the day to combat chronic fatigue
+Lupus,Diet,Eat an anti inflammatory diet rich in whole foods omega 3s and vegetables
+Lupus,Exercise,Engage in low impact exercises like swimming to keep joints active without strain
+Lupus,Precaution,Report signs of infection or kidney changes like foamy urine to your doctor immediately
+Multiple Sclerosis,Rest,Pace your activities and rest frequently to manage MS related fatigue
+Multiple Sclerosis,Lifestyle,Avoid overheating use cooling vests or take cool showers if heat worsens symptoms
+Multiple Sclerosis,Exercise,Participate in regular stretching and moderate exercise to preserve mobility
+Multiple Sclerosis,Diet,Follow a nutrient rich balanced diet to support nerve health and immunity
+Multiple Sclerosis,Precaution,Adhere closely to disease modifying therapies to slow down progression
+Leukemia,Precaution,Avoid crowds and sick individuals due to severely compromised immunity
+Leukemia,Diet,Follow a neutropenic diet eating thoroughly cooked foods and avoiding raw meats or unwashed items
+Leukemia,Rest,Get ample rest and conserve energy to help your body manage treatment side effects
+Leukemia,Hydration,Stay well hydrated to help flush out chemotherapy toxins from your body
+Leukemia,Lifestyle,Practice meticulous hand washing and oral hygiene routines daily
+Lymphoma,Rest,Listen to your body and rest whenever fatigue sets in during therapy
+Lymphoma,Diet,Eat small frequent protein rich meals to maintain weight and muscle mass
+Lymphoma,Precaution,Monitor your body temperature and seek urgent care for any fever spikes
+Lymphoma,Hydration,Drink fluids regularly to maintain hydration and kidney function
+Lymphoma,Lifestyle,Avoid rigorous contact sports or activities that could cause bruising or injury
+Breast Cancer,Lifestyle,Attend all scheduled chemotherapy radiation or follow up oncology sessions
+Breast Cancer,Exercise,Engage in gentle arm stretching exercises post surgery as directed by your physical therapist
+Breast Cancer,Diet,Focus on a plant forward diet rich in cruciferous vegetables and fiber
+Breast Cancer,Rest,Prioritize rest and seek emotional support groups to manage treatment anxiety
+Breast Cancer,Precaution,Monitor surgical incision sites or radiation areas for signs of infection
+Lung Cancer,Lifestyle,Quit smoking immediately and completely avoid secondhand smoke environments
+Lung Cancer,Exercise,Practice deep breathing exercises to optimize remaining lung capacity
+Lung Cancer,Diet,Incorporate high calorie nutrient dense foods if experiencing sudden weight loss
+Lung Cancer,Rest,Use extra pillows to elevate your chest and head for comfortable resting breathing
+Lung Cancer,Precaution,Report any new symptoms like coughing up blood or bone pain to your oncologist
+Colon Cancer,Diet,Eat a high fiber diet with plenty of vegetables fruits and whole grains post treatment
+Colon Cancer,Precaution,Undergo regular screening colonoscopies and follow up checks as advised
+Colon Cancer,Hydration,Drink plenty of fluids especially if experiencing stool changes or adjusting to an ostomy
+Colon Cancer,Exercise,Maintain a regular routine of light physical activity to stimulate bowel health
+Colon Cancer,Rest,Allow adequate time for abdominal healing and rest after surgical procedures
+Cervical Cancer,Precaution,Attend regular Pap smears and pelvic exams to monitor cellular changes
+Cervical Cancer,Diet,Eat foods rich in folate and vitamins A and C to support tissue health
+Cervical Cancer,Rest,Get ample bed rest after procedures like biopsies or radiation therapy
+Cervical Cancer,Lifestyle,Practice safe sex and discuss HPV vaccination benefits with your provider
+Cervical Cancer,Hydration,Maintain regular fluid intake to support overall cellular recovery
+Ovarian Cancer,Diet,Eat small frequent meals to manage bloating or early satiety symptoms
+Ovarian Cancer,Rest,Take frequent rests and avoid heavy lifting during post surgical recovery
+Ovarian Cancer,Precaution,Be vigilant about persistent abdominal bloating or urinary changes and report them
+Ovarian Cancer,Exercise,Engage in light walking to prevent deep vein thrombosis after pelvic surgeries
+Ovarian Cancer,Hydration,Ensure adequate daily fluid intake to support kidney function during chemotherapy
+Prostate Cancer,Precaution,Monitor your PSA levels regularly according to your urologist schedule
+Prostate Cancer,Diet,Limit intake of high fat dairy and red meat focus on tomato lycopene rich foods
+Prostate Cancer,Exercise,Practice pelvic floor exercises Kegels to improve urinary control
+Prostate Cancer,Lifestyle,Maintain a healthy body weight and limit alcohol intake
+Prostate Cancer,Rest,Ensure proper rest to recover from fatigue caused by hormone therapy or radiation
+Oral Cancer,Lifestyle,Abstain completely from all forms of tobacco alcohol and betel nut products
+Oral Cancer,Diet,Consume soft pureed or liquid foods if chewing and swallowing are painful
+Oral Cancer,Precaution,Maintain meticulous oral hygiene using a very soft bristled toothbrush
+Oral Cancer,Hydration,Sip water frequently or use artificial saliva to manage dry mouth symptoms
+Oral Cancer,Rest,Rest your jaw and throat structures avoid prolonged shouting or talking
+Skin Cancer,Lifestyle,Apply broad spectrum SPF 30 plus sunscreen daily and wear wide brimmed hats
+Skin Cancer,Precaution,Examine your skin monthly for any changing asymmetric or bleeding moles
+Skin Cancer,Rest,Allow treated skin biopsy sites or surgical wounds time to heal without friction
+Skin Cancer,Diet,Eat an antioxidant rich diet to support skin health and cell repair
+Skin Cancer,Exercise,Exercise indoors or during early morning hours to avoid peak UV radiation windows
+Measles,Precaution,Isolate the patient completely to prevent spreading this highly contagious virus
+Measles,Hydration,Provide ample fluids like water clear juices or broth to treat fever dehydration
+Measles,Rest,Ensure total bed rest in a dimly lit room to protect sensitive eyes
+Measles,Diet,Offer soft nutritious foods that do not irritate any mouth sores
+Measles,Lifestyle,Use cool compresses to soothe high fevers and skin itchiness
+Chickenpox,Precaution,Keep the patient isolated until all blisters have fully crusted over
+Chickenpox,Lifestyle,Apply calamine lotion and take oatmeal baths to soothe intense skin itching
+Chickenpox,Rest,Ensure rest and trim the patient fingernails short to prevent scratching scars
+Chickenpox,Hydration,Encourage frequent fluid intake to prevent dehydration from fever
+Chickenpox,Diet,Serve soft bland cool foods avoid salty or acidic foods if mouth sores exist

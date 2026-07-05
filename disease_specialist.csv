@@ -1,0 +1,110 @@
+disease,specialist_doctor,department,consultation_priority,referral_required
+Viral Fever,General Physician,General Medicine,Low,No
+Common Cold,General Physician,General Medicine,Low,No
+Influenza,General Physician,General Medicine,Medium,No
+COVID-19,Pulmonologist,Pulmonology,High,Yes
+Dengue,General Physician,General Medicine,High,No
+Malaria,Infectious Disease Specialist,Infectious Diseases,High,Yes
+Typhoid,General Physician,General Medicine,Medium,No
+Migraine,Neurologist,Neurology,Medium,Yes
+Sinusitis,Otolaryngologist,ENT Department,Low,No
+Asthma,Pulmonologist,Pulmonology,Medium,Yes
+Bronchitis,Pulmonologist,Pulmonology,Medium,No
+Pneumonia,Pulmonologist,Pulmonology,High,Yes
+Tuberculosis,Pulmonologist,Pulmonology,High,Yes
+Hypertension,Cardiologist,Cardiology,Medium,No
+Hypotension,General Physician,General Medicine,Low,No
+Diabetes Type 1,Endocrinologist,Endocrinology,High,Yes
+Diabetes Type 2,Endocrinologist,Endocrinology,Medium,No
+Acidity,Gastroenterologist,Gastroenterology,Low,No
+Gastritis,Gastroenterologist,Gastroenterology,Low,No
+Peptic Ulcer,Gastroenterologist,Gastroenterology,Medium,Yes
+Food Poisoning,General Physician,General Medicine,Medium,No
+Gastroenteritis,Gastroenterologist,Gastroenterology,Medium,No
+Irritable Bowel Syndrome,Gastroenterologist,Gastroenterology,Medium,Yes
+Constipation,General Physician,General Medicine,Low,No
+Diarrhea,General Physician,General Medicine,Low,No
+Arthritis,Rheumatologist,Rheumatology,Medium,Yes
+Osteoarthritis,Rheumatologist,Rheumatology,Medium,No
+Rheumatoid Arthritis,Rheumatologist,Rheumatology,High,Yes
+Back Pain,Orthopedic Surgeon,Orthopedics,Low,No
+Kidney Stone,Urologist,Urology,High,No
+Urinary Tract Infection,Urologist,Urology,Medium,No
+Fatty Liver,Hepatologist,Gastroenterology,Medium,Yes
+Hepatitis A,Hepatologist,Gastroenterology,Medium,No
+Hepatitis B,Hepatologist,Gastroenterology,High,Yes
+Hepatitis C,Hepatologist,Gastroenterology,High,Yes
+Anemia,Hematologist,Hematology,Medium,No
+Hypothyroidism,Endocrinologist,Endocrinology,Medium,No
+Hyperthyroidism,Endocrinologist,Endocrinology,Medium,Yes
+Obesity,Bariatric Specialist,Endocrinology,Low,No
+Malnutrition,Dietitian,Nutrition and Dietetics,Medium,No
+Allergy,Allergist,Immunology,Low,No
+Skin Allergy,Dermatologist,Dermatology,Low,No
+Eczema,Dermatologist,Dermatology,Low,No
+Psoriasis,Dermatologist,Dermatology,Medium,No
+Acne,Dermatologist,Dermatology,Low,No
+Fungal Infection,Dermatologist,Dermatology,Low,No
+Conjunctivitis,Ophthalmologist,Ophthalmology,Medium,No
+Cataract,Ophthalmologist,Ophthalmology,Medium,No
+Glaucoma,Ophthalmologist,Ophthalmology,High,Yes
+Ear Infection,Otolaryngologist,ENT Department,Medium,No
+Tonsillitis,Otolaryngologist,ENT Department,Medium,No
+Pharyngitis,Otolaryngologist,ENT Department,Low,No
+Depression,Psychiatrist,Psychiatry,Medium,No
+Anxiety Disorder,Psychiatrist,Psychiatry,Medium,No
+Panic Disorder,Psychiatrist,Psychiatry,High,No
+Insomnia,Sleep Specialist,Neurology,Medium,Yes
+Epilepsy,Neurologist,Neurology,High,Yes
+Parkinson Disease,Neurologist,Neurology,High,Yes
+Alzheimer Disease,Neurologist,Neurology,High,Yes
+Stroke,Neurologist,Neurology,Emergency,Yes
+Heart Disease,Cardiologist,Cardiology,Critical,Yes
+Coronary Artery Disease,Cardiologist,Cardiology,High,Yes
+Heart Failure,Cardiologist,Cardiology,Critical,Yes
+Arrhythmia,Cardiologist,Cardiology,High,Yes
+Angina,Cardiologist,Cardiology,Emergency,Yes
+COPD,Pulmonologist,Pulmonology,High,Yes
+Sleep Apnea,Sleep Specialist,Pulmonology,Medium,No
+Appendicitis,General Surgeon,Surgery,Emergency,Yes
+Gallstones,General Surgeon,Surgery,High,Yes
+Pancreatitis,Gastroenterologist,Gastroenterology,Emergency,Yes
+PCOS,Gynecologist,Gynecology,Medium,No
+Menstrual Disorder,Gynecologist,Gynecology,Medium,No
+Osteoporosis,Rheumatologist,Rheumatology,Medium,No
+Gout,Rheumatologist,Rheumatology,Medium,No
+Lupus,Rheumatologist,Rheumatology,High,Yes
+Multiple Sclerosis,Neurologist,Neurology,High,Yes
+Leukemia,Oncologist,Oncology,Emergency,Yes
+Lymphoma,Oncologist,Oncology,Critical,Yes
+Breast Cancer,Oncologist,Oncology,Critical,Yes
+Lung Cancer,Oncologist,Oncology,Critical,Yes
+Colon Cancer,Oncologist,Oncology,Critical,Yes
+Cervical Cancer,Oncologist,Oncology,Critical,Yes
+Ovarian Cancer,Oncologist,Oncology,Critical,Yes
+Prostate Cancer,Oncologist,Oncology,Critical,Yes
+Oral Cancer,Oncologist,Oncology,Critical,Yes
+Skin Cancer,Oncologist,Oncology,High,Yes
+Measles,Pediatrician,Pediatrics,Medium,No
+Chickenpox,Pediatrician,Pediatrics,Medium,No
+Dermatitis,Dermatologist,Dermatology,Low,No
+Endometriosis,Gynecologist,Gynecology,Medium,Yes
+Scabies,Dermatologist,Dermatology,Low,No
+Hernia,General Surgeon,Surgery,Medium,No
+Vertigo,Neurologist,Neurology,Medium,No
+Crohn Disease,Gastroenterologist,Gastroenterology,High,Yes
+Ulcerative Colitis,Gastroenterologist,Gastroenterology,High,Yes
+Alopecia,Dermatologist,Dermatology,Low,No
+Anorexia,Psychiatrist,Psychiatry,High,Yes
+Bulimia,Psychiatrist,Psychiatry,High,Yes
+Glomerulonephritis,Nephrologist,Nephrology,High,Yes
+Kidney Failure,Nephrologist,Nephrology,Emergency,Yes
+Cirrhosis,Hepatologist,Gastroenterology,Critical,Yes
+Aortic Aneurysm,Vascular Surgeon,Vascular Surgery,Emergency,Yes
+Meningitis,Neurologist,Neurology,Emergency,Yes
+Encephalitis,Neurologist,Neurology,Emergency,Yes
+Otitis Media,Otolaryngologist,ENT Department,Medium,No
+Fibromyalgia,Rheumatologist,Rheumatology,Medium,Yes
+Schizophrenia,Psychiatrist,Psychiatry,High,No
+Bipolar Disorder,Psychiatrist,Psychiatry,High,No
+Celiac Disease,Gastroenterologist,Gastroenterology,Medium,Yes
