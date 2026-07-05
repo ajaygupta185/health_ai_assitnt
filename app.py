@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import os
 import re
+
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 
@@ -246,15 +246,7 @@ if system_ready:
                 st.session_state.messages.append(report_message)  
 
 
-
-
-
-
-
-
-
-
-                report_text = f"""
+report_text = f"""
 ====================================================
                  MEDICAL HEALTH REPORT
 ====================================================
@@ -266,7 +258,7 @@ Generated On: Automated System
 ----------------------------------------------------
 PATIENT SYMPTOMS
 ----------------------------------------------------
-{chr(10).join([f"- {s.replace('_',' ').title()}" for s in detected_symptoms])}
+{', '.join(detected_symptoms) if detected_symptoms else 'No symptoms detected'}
 
 ----------------------------------------------------
 DIAGNOSIS (AI PREDICTION)
@@ -277,36 +269,39 @@ Confidence Level : {confidence:.2f}%
 ----------------------------------------------------
 SPECIALIST CONSULTATION
 ----------------------------------------------------
-{f"Doctor: {specialist_data['doctor']}" if specialist_data else "Doctor: Not Available"}
-{f"Department: {specialist_data['dept']}" if specialist_data else ""}
-{f"Urgency: {specialist_data['priority']}" if specialist_data else ""}
+Doctor: {specialist_data['doctor'] if specialist_data else 'Not Available'}
+Department: {specialist_data['dept'] if specialist_data else 'Not Available'}
+Urgency: {specialist_data['priority'] if specialist_data else 'Not Available'}
 
 ----------------------------------------------------
-MEDICATION SUGGESTIONS (REFERENCE ONLY)
+MEDICATION SUGGESTIONS
 ----------------------------------------------------
-{chr(10).join([f"- {m['name']} ({m['generic']}) | {m['dosage']} | {m['freq']} | {m['duration']} days" for m in meds_list]) if meds_list else "No medication data available"}
+{chr(10).join([f"- {m['name']} ({m['generic']}) | {m['dosage']}" for m in meds_list]) if meds_list else 'Not Available'}
 
 ----------------------------------------------------
 HEALTH ADVICE
 ----------------------------------------------------
-{chr(10).join([f"- {a}" for a in advices_list]) if advices_list else "No advice available"}
+{chr(10).join([f"- {a}" for a in advices_list]) if advices_list else 'Not Available'}
 
 ----------------------------------------------------
-IMPORTANT DISCLAIMER
-----------------------------------------------------
-This is an AI-generated preliminary screening report.
-It is NOT a substitute for professional medical advice,
-diagnosis, or treatment. Please consult a qualified
-doctor for confirmation.
+DISCLAIMER:
+This is AI-generated and NOT a medical diagnosis.
+====================================================
+"""   
 
-====================================================
-        End of Report - Stay Healthy!
-====================================================
-"""
-                
-                st.download_button(
+
+st.download_button(
     label="📥 Download Medical Report",
     data=report_text,
     file_name=f"{predicted_disease}_medical_report.txt",
+    mime="text/plain"
+)
+
+
+
+
+
+
+
     mime="text/plain"
 )
