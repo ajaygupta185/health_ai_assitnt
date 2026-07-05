@@ -244,8 +244,7 @@ if system_ready:
                     "advices": advices_list
                 }
                 st.session_state.messages.append(report_message)  
-
-
+# append message
 st.session_state.messages.append(report_message)
 
 # =========================
@@ -254,35 +253,21 @@ st.session_state.messages.append(report_message)
 
 report_text = f"""
 ====================================================
-                 MEDICAL HEALTH REPORT
+             MEDICAL HEALTH REPORT
 ====================================================
 
-Hospital: Local AI Health Companion
-Report Type: Preliminary AI Screening Report
-
-----------------------------------------------------
-SYMPTOMS
-----------------------------------------------------
+Symptoms:
 {', '.join(detected_symptoms)}
 
-----------------------------------------------------
-DIAGNOSIS
-----------------------------------------------------
+Diagnosis:
 {predicted_disease}
-Confidence: {confidence:.2f}%
 
-----------------------------------------------------
-DISCLAIMER
-----------------------------------------------------
+Confidence:
+{confidence:.2f}%
+
+Disclaimer:
 AI generated report only.
 """
-
-st.download_button(
-    label="📥 Download Medical Report",
-    data=report_text,
-    file_name=f"{predicted_disease}_report.txt",
-    mime="text/plain"
-)
 
 st.download_button(
     label="📥 Download Medical Report",
@@ -290,10 +275,6 @@ st.download_button(
     file_name=f"{predicted_disease}_medical_report.txt",
     mime="text/plain"
 )
-
-
-
-
 
 
 
