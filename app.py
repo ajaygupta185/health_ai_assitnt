@@ -246,6 +246,12 @@ if system_ready:
                 st.session_state.messages.append(report_message)  
 
 
+st.session_state.messages.append(report_message)
+
+# =========================
+# REPORT GENERATION
+# =========================
+
 report_text = f"""
 ====================================================
                  MEDICAL HEALTH REPORT
@@ -253,42 +259,30 @@ report_text = f"""
 
 Hospital: Local AI Health Companion
 Report Type: Preliminary AI Screening Report
-Generated On: Automated System
 
 ----------------------------------------------------
-PATIENT SYMPTOMS
+SYMPTOMS
 ----------------------------------------------------
-{', '.join(detected_symptoms) if detected_symptoms else 'No symptoms detected'}
+{', '.join(detected_symptoms)}
 
 ----------------------------------------------------
-DIAGNOSIS (AI PREDICTION)
+DIAGNOSIS
 ----------------------------------------------------
-Primary Condition: {predicted_disease}
-Confidence Level : {confidence:.2f}%
+{predicted_disease}
+Confidence: {confidence:.2f}%
 
 ----------------------------------------------------
-SPECIALIST CONSULTATION
+DISCLAIMER
 ----------------------------------------------------
-Doctor: {specialist_data['doctor'] if specialist_data else 'Not Available'}
-Department: {specialist_data['dept'] if specialist_data else 'Not Available'}
-Urgency: {specialist_data['priority'] if specialist_data else 'Not Available'}
+AI generated report only.
+"""
 
-----------------------------------------------------
-MEDICATION SUGGESTIONS
-----------------------------------------------------
-{chr(10).join([f"- {m['name']} ({m['generic']}) | {m['dosage']}" for m in meds_list]) if meds_list else 'Not Available'}
-
-----------------------------------------------------
-HEALTH ADVICE
-----------------------------------------------------
-{chr(10).join([f"- {a}" for a in advices_list]) if advices_list else 'Not Available'}
-
-----------------------------------------------------
-DISCLAIMER:
-This is AI-generated and NOT a medical diagnosis.
-====================================================
-"""   
-
+st.download_button(
+    label="📥 Download Medical Report",
+    data=report_text,
+    file_name=f"{predicted_disease}_report.txt",
+    mime="text/plain"
+)
 
 st.download_button(
     label="📥 Download Medical Report",
